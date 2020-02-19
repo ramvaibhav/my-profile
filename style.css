@@ -1,17 +1,17 @@
 body{
-background :rgb(230,230,230);
-color: rgb(50,50,50);
-font-family: 'Josefin Sans', sans-serif;
+background :#5B79A8;
+color: #1AB171;
+font-family: 'Sriracha', cursive;
 
 font-size: 20px;
 }
 h1, h2, h3{
-	font-family: 'Pacifico', cursive;
+	font-family: 'Bree Serif', serif;
 	color: white;
 }
 h1
 {
-color:red;
+color:black;
 font-size: 40px;
 }
 h2 {
@@ -22,11 +22,11 @@ h2 {
 a
 {
 text-decoration: none;
-color: red;
+color: black;
 }
 a:hover
 {
-	color: black;
+	color: lightblue;
 
 }
 .container {
@@ -57,10 +57,10 @@ a:hover
 }
 
 .card-white {
-	background-color: white;
+	background-color: #F5F5F5;
   padding: 40px;
 
-  border: 1px solid lightgrey;
+  border: 1px solid darkgrey;
 	box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
 	
 }
